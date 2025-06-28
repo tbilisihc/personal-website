@@ -16,8 +16,8 @@ This project provides a ready-to-use HTML template for creating a personal profi
 
 The template features a clean, two-column layout on larger screens that adapts to a single column on mobile devices. The final appearance will reflect your personal information.
 
-![Template Preview](https://i.imgur.com/example-preview.png)
-*A generic preview of the template layout.*
+![Template Preview](https://i.imgur.com/sGXu2WR.png)
+
 
 ---
 
